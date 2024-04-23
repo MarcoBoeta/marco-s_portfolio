@@ -19,7 +19,7 @@ No dudes en contactarme si te gustaría discutir posibles oportunidades o tienes
 
 -----------------------------------------------------------
 
-#Projects
+# Projects
 
 ## [Project 1: Musical Evaluation Between 2 Cities](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint2/Evaluaci%C3%B3n%20Musical%20entre%202%20ciudades.ipynb)
 
@@ -47,7 +47,7 @@ This project was aimed at determining which of the two rates offered by a teleco
 * Statistical hypothesis comparisons were conducted to determine which plan generates more revenue.
 
 
-#Proyectos
+# Proyectos
 
 ## [Proyecto 1: Evaluación Musical Entre 2 ciudades](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint2/Evaluaci%C3%B3n%20Musical%20entre%202%20ciudades.ipynb)
 
