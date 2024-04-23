@@ -17,7 +17,7 @@ No dudes en contactarme si te gustaría discutir posibles oportunidades o tienes
 
 [Ir a proyectos](#Proyectos)
 
------------------------------------------------------------
+----------------------------------------------------------- 
 
 # Projects
 
