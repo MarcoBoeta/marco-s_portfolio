@@ -1,4 +1,17 @@
-En este portafolio se encuentran los proyectos realizados en el bootcamp de Data Scientist de Tripleten
+# Welcome to My Data Science Portfolio!
+
+Hi there, and thank you for visiting my portfolio! I'm Marco Antonio Boeta Santos, a data science enthusiast currently enrolled in the TripleTen Data Science Bootcamp. This repository is designed to showcase my projects and give recruiters a glimpse into my skills and approach to data science. 
+
+Here, you'll find a selection of my work in data analysis, machine learning, data visualization, and more. Each project includes code, explanations, and results, offering insight into how I tackle data science challenges.
+
+Don't hesitate to reach out if you'd like to discuss potential opportunities or have any questions. I look forward to connecting with you!
+
+----------------------------------------------------------
+¡Hola! Gracias por visitar mi portafolio. Soy Marco Antonio Boeta Santos, un entusiasta de la ciencia de datos que actualmente está inscrito en el Bootcamp de Ciencia de Datos de TripleTen. Este repositorio está diseñado para mostrar mis proyectos y dar a los reclutadores una idea de mis habilidades y enfoque en ciencia de datos.
+
+Aquí encontrarás una selección de mi trabajo en análisis de datos, aprendizaje automático, visualización de datos, y más. Cada proyecto incluye código, explicaciones y resultados, ofreciendo una visión de cómo abordo los desafíos en ciencia de datos.
+
+No dudes en contactarme si te gustaría discutir posibles oportunidades o tienes alguna pregunta. ¡Espero conectar contigo!
 
 # [Proyecto 1: Evaluación Musical Entre 2 ciudades](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint2/Evaluaci%C3%B3n%20Musical%20entre%202%20ciudades.ipynb)
 
