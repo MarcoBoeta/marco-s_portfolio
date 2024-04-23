@@ -21,7 +21,7 @@ No dudes en contactarme si te gustaría discutir posibles oportunidades o tienes
 
 # Projects
 
-## [Project 1: Musical Evaluation Between 2 Cities](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint2/Evaluaci%C3%B3n%20Musical%20entre%202%20ciudades.ipynb)
+## [Project 1: Musical Evaluation Between 2 Cities](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint2_en/Music%20analysis%20between%202%20cities.ipynb)
 
 This project was based on a case study of two cities and their musical trends to determine whether there was a difference in user activity depending on the day of the week and the city.
 
@@ -29,7 +29,7 @@ This project was based on a case study of two cities and their musical trends to
 * A hypothesis was established to compare the variables.
 
 
-## [Project 2: Delivery Platform Analysis](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint3/An%C3%A1lisis%20de%20plataforma%20de%20entregas.ipynb)
+## [Project 2: Delivery Platform Analysis](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint3_en/Delivery%20platform%20analysis.ipynb)
 
 This project focused on a food delivery platform to provide insights into the products and user activity.
 
@@ -37,7 +37,7 @@ This project focused on a food delivery platform to provide insights into the pr
 * Graphs were created for better visualization of the results.
 
 
-## [Project 3: Telecom Operator Rate Analysis](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint4/An%C3%A1lisis%20de%20tarifas%20de%20operador%20de%20telecomunicaciones.ipynb)
+## [Project 3: Telecom Operator Rate Analysis](https://github.com/MarcoBoeta/marco-s_portfolio/blob/main/sprint4_en/Telecommunications%20operator%20monthly%20plan%20analysis.ipynb)
 
 This project was aimed at determining which of the two rates offered by a telecom operator generates more revenue for the company.
 
