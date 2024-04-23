@@ -5,7 +5,7 @@ Hi there, and thank you for visiting my portfolio! I'm Marco Antonio Boeta Santo
 Here, you'll find a selection of my work in data analysis, machine learning, data visualization, and more. Each project includes code, explanations, and results, offering insight into how I tackle data science challenges.
 
 Don't hesitate to reach out if you'd like to discuss potential opportunities or have any questions. I look forward to connecting with you!
-
+ 
 [Go to projects](#projects)
 
 ----------------------------------------------------------
