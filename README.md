@@ -6,7 +6,7 @@ Here, you'll find a selection of my work in data analysis, machine learning, dat
 
 Don't hesitate to reach out if you'd like to discuss potential opportunities or have any questions. I look forward to connecting with you!
 
-[Go to projects](#Projects)
+[Go to projects](#projects)
 
 ----------------------------------------------------------
 ¡Hola! Gracias por visitar mi portafolio. Soy Marco Antonio Boeta Santos, un entusiasta de la ciencia de datos que actualmente está inscrito en el Bootcamp de Ciencia de Datos de TripleTen. Este repositorio está diseñado para mostrar mis proyectos y dar a los reclutadores una idea de mis habilidades y enfoque en ciencia de datos.
@@ -15,7 +15,7 @@ Aquí encontrarás una selección de mi trabajo en análisis de datos, aprendiza
 
 No dudes en contactarme si te gustaría discutir posibles oportunidades o tienes alguna pregunta. ¡Espero conectar contigo!
 
-[Ir a proyectos](#Proyectos)
+[Ir a proyectos](#proyectos)
 
 ----------------------------------------------------------- 
 
